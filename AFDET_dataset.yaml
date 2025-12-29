@@ -1,0 +1,11 @@
+# custom_data.yaml
+path: /media/kaizen/T7/Project/final_project/Project//Dataset/Aircraft_Fuselage_DET2023/aircraft_fuselage_yolo/
+train: images/train  # path to training images
+val: images/val      # path to validation images
+
+
+names: 
+  0: paint_peel
+  1: rivet_damage
+  2: rust
+  3: scratch # list of class names
