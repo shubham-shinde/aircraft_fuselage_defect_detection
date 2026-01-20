@@ -5,7 +5,7 @@ val: images/val      # path to validation images
 
 
 names: 
-  0: paint_peel
-  1: rivet_damage
+  0: scratch # list of class names
+  1: paint_peel
   2: rust
-  3: scratch # list of class names
+  3: rivet_damage
