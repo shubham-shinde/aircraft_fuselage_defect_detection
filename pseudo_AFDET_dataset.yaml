@@ -1,5 +1,5 @@
 # custom_data.yaml
-path: /media/kaizen/T7/Project/final_project/Project/Dataset/pseudo_labeled_dataset/
+path: /media/kaizen/T7/Project/final_project/Project/Dataset/pseudo_labeled_train_dataset/
 train: images/train  # path to training images
 val: images/val      # path to validation images
 
