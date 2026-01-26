@@ -1,0 +1,8 @@
+names:
+  0: scratch
+  1: paint_peel
+  2: rust
+  3: rivet_damage
+path: Dataset/Aircraft_Fuselage_DET2023/aircraft_fuselage_yolo/2026-02-02_5-Fold_Cross-val/split_1
+train: train
+val: val
